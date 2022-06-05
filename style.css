@@ -1,0 +1,10 @@
+#startbutton{
+    background-color: palegoldenrod;
+    height: 75px;
+    width: 100px;
+    font-size: large;
+}
+
+#textbox{
+    width:300px;
+}
